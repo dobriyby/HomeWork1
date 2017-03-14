@@ -3,7 +3,7 @@
 	<test name="Test">
 		<parameter name="inkContainerValue" value="1200" />
 		<parameter name="sizeLetter" value="3" />
-		<parameter name="color" value="GREEN" />    <!--// ERROR!!! Bug -->
+		<parameter name="color" value="GREEN" />    <!--// ERROR!!! (цвет не правильный выводит)--> 
 		<classes>
 			<class name="PenTest" />
 		</classes>
